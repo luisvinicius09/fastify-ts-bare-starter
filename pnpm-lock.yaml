@@ -25,6 +25,12 @@ devDependencies:
   eslint:
     specifier: 8.45.0
     version: 8.45.0
+  eslint-config-prettier:
+    specifier: 8.8.0
+    version: 8.8.0(eslint@8.45.0)
+  prettier:
+    specifier: 3.0.0
+    version: 3.0.0
   tsup:
     specifier: ^7.1.0
     version: 7.1.0(typescript@5.1.6)
